@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Columbia University, School of Engineering and Applied Sciences"
-date: 2024
+date: Sept 2024 - Dec 2024
 location: "New York, USA"
 ---
 
