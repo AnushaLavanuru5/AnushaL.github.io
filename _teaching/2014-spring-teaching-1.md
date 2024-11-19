@@ -8,11 +8,11 @@ date: "Sept 2023 - Dec 2023"
 location: "New York, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Assisted Professor Nelson Colon Vargas with leading labs, grading, holding office hours, managing course platform(Canvas), proctoring exams and facilitating class discussions.
+
 
 Heading 1
 ======
-Assisted Professor Nelson Colon Vargas with leading labs, grading, holding office hours, managing course platform(Canvas), proctoring exams and facilitating class discussions.
 
 Heading 2
 ======
