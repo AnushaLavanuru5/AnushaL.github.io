@@ -1,12 +1,24 @@
 ---
 permalink: /
-title: "Hello there, I'm Anusha!"
+title: "Hello there, Welcome to my portfolio!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I'm a final year graduate student at Columbia University.
+I’m Anusha Lavanuru, a Master’s student in Computer Science at Columbia University. I will be graduating in Dec 2024. My journey in technology began with a tour of ISRO’s satellite launchpad, sparking my passion for innovation at the intersection of math, logic, and automation. With experience in cutting-edge research and software development, I aim to create impactful solutions that advance the boundaries of technology. 
+
+**I am actively looking for SDE, SWE, AR/VR roles**
+
+Academic Background
+------
+I have finished my primary education at Zion Matriculation Higher Secondary school in Chennai, India
+I finished my secondary education at Narayana Junior College, Hyderabad, India
+I finished my undergraduate studies in Bachelors of Technology in Computer Science in Gokaraju Rangaraju Institute of Engineering and Technology with merit as the college-topper. My coursework included Algorithms, Programming( C, C++, Java and python), Advanced Databases, Unix/Linux, Operating Systems and Compiler Design
+For my Masters degree,  I chose Columbia University to deepen my expertise in fields like Computer Vision, Natural Language Processing, and AR/VR. My coursework includes Algorithms, Data Visualization, and UI Design, complemented by TA roles for courses like Python for data analysis, UI Design and Databases.
+
+
+
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
