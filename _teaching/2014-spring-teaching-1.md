@@ -8,14 +8,13 @@ date: "Sept 2023 - Dec 2023"
 location: "New York, USA"
 ---
 
-Assisted Professor Nelson Colon Vargas with leading labs, grading, holding office hours, managing course platform(Canvas), proctoring exams and facilitating class discussions.
+Assisted [Professor Nelson Colon Vargas](https://nelabdiel.github.io/) as a TA in Fall 2023.
 
 
-Heading 1
+Duties
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+1. Assisted professors in designing and organizing course content to ensure a well-structured and engaging curriculum.
+2. Held weekly office hours to address student queries, clarify doubts, and provide additional academic guidance.
+3. Managed the course platform (Canvas) to ensure seamless access to materials, assignments, and announcements.
+4. Proctored exams and facilitated interactive class discussions on platforms like EdStem to enhance collaborative learning.
+5. Led lab sessions to provide students with practical coding experience and reinforce key programming concepts.
