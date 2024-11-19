@@ -12,10 +12,13 @@ I’m Anusha Lavanuru, a Master’s student in Computer Science at Columbia Univ
 
 Academic Background
 ------
-I have finished my primary education at Zion Matriculation Higher Secondary school in Chennai, India
-I finished my secondary education at Narayana Junior College, Hyderabad, India
-I finished my undergraduate studies in Bachelors of Technology in Computer Science in Gokaraju Rangaraju Institute of Engineering and Technology with merit as the college-topper. My coursework included Algorithms, Programming( C, C++, Java and python), Advanced Databases, Unix/Linux, Operating Systems and Compiler Design
-For my Masters degree,  I chose Columbia University to deepen my expertise in fields like Computer Vision, Natural Language Processing, and AR/VR. My coursework includes Algorithms, Data Visualization, and UI Design, complemented by TA roles for courses like Python for data analysis, UI Design and Databases.
+My educational journey began at Zion Matriculation Higher Secondary School in Chennai, India, where I laid a strong foundation for my academic pursuits. I continued my secondary education at Narayana Junior College in Hyderabad, India, excelling in my studies and developing a passion for computer science.
+
+I earned my Bachelor’s degree in Technology (Computer Science) from Gokaraju Rangaraju Institute of Engineering and Technology, where I graduated as the college topper with merit. My undergraduate coursework included foundational and advanced topics such as Algorithms, Programming (C, C++, Java, Python), Advanced Databases, Unix/Linux, Operating Systems, and Compiler Design. This rigorous curriculum, combined with my determination, shaped my technical expertise and problem-solving skills.
+
+To further deepen my knowledge and specialize in cutting-edge fields, I chose to pursue a Master of Science in Computer Science at Columbia University, New York. My coursework at Columbia spans diverse and exciting areas such as Computer Vision, Natural Language Processing (NLP), Augmented and Virtual Reality (AR/VR), Algorithms, Data Visualization, and UI Design. In addition to my studies, I have been privileged to contribute as a Teaching Assistant for courses like Python for Data Analysis, UI Design, and Databases, which has further enhanced my skills and reinforced my passion for mentoring and collaboration.
+
+This academic journey has been instrumental in preparing me to tackle complex challenges, drive innovation, and make meaningful contributions in the field of computer science.
 
 
 
