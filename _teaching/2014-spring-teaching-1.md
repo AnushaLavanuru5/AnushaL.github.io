@@ -8,7 +8,7 @@ date: "Sept 2023 - Dec 2023"
 location: "New York, USA"
 ---
 
-Assisted [Professor Nelson Colon Vargas](https://nelabdiel.github.io/) as a TA in Fall 2023.
+Assisted [Professor Nelson Colon Vargas](https://nelabdiel.github.io/) as a TA in Fall 2023
 
 
 Duties
