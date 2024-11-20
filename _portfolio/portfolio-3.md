@@ -13,6 +13,7 @@ Implemented Histogram of Oriented Gradients (HOG) and Fibonacci Weighted Neighbo
 Utilized a neural network architecture to classify gestures with high accuracy.
 Developed an efficient system capable of recognizing gestures under varying conditions such as changes in lighting, background, and scale.
 
+
 Applications
 ---
 Touchless control of electronic devices and gadgets.
