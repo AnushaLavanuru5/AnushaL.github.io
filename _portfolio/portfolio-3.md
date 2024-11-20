@@ -1,39 +1,33 @@
 ---
-title: "Hand Gesture Recognition"
-excerpt: "Dec 2020 Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "FitBlend"
+excerpt: "Front end application<br/><img src='/images/500x300.png'>"
+date: May 2023
 collection: portfolio
 ---
 Overview
 ---
-Developed a machine learning-based system to recognize hand gestures for enhancing human-computer interaction. The project explored feature extraction techniques and leveraged image processing and neural networks to classify static hand gestures effectively.
+FitBlend is an interactive and user-friendly web application designed to help users explore and understand various smoothie recipes tailored to their preferences. It provides real-time data integration and dynamic visualizations to make the user experience engaging and educational.
 
 Key features
 ---
-Implemented Histogram of Oriented Gradients (HOG) and Fibonacci Weighted Neighborhood Patterns (FWNP) for robust feature extraction.
-Utilized a neural network architecture to classify gestures with high accuracy.
-Developed an efficient system capable of recognizing gestures under varying conditions such as changes in lighting, background, and scale.
-
-
-Applications
----
-Touchless control of electronic devices and gadgets.
-Applications in home automation, gaming, defense, and sign language translation.
+Designed a responsive and interactive UI using ReactJS to ensure seamless functionality across devices.
+Integrated real-time data to dynamically display nutritional information and smoothie customization options.
+Enabled users to input preferences (e.g., ingredients, dietary restrictions) and receive tailored smoothie recommendations.
 
 Tech Stack
 ---
-Programming Languages: Python
-Libraries: OpenCV, TensorFlow, Keras
-Dataset: NUS Hand Posture Dataset
-Tools: Jupyter Notebook, Anaconda
+Front-End: ReactJS, HTML, CSS
+Back-End: Node.js (for API integrations)
+Database: MongoDB (for storing user preferences and recipe data)
+Deployment: Hosted on Heroku for accessibility.
 
 Project highlights
 ---
-Pre-processed images using segmentation, noise reduction, and edge detection techniques to isolate hand gestures.
-Designed a pipeline to capture gestures via webcam and classify them in real-time.
-Achieved high recognition accuracy by combining boundary-based and region-based feature extraction methods.
+Enhanced user experience by incorporating interactive visual elements such as graphs and ingredient animations.
+Implemented secure user authentication with JWT for personalized recipe management.
+Conducted thorough testing with Jest and Cypress to ensure robust performance and error-free deployment.
 
-Future Scope
+Links
 ---
-Enhance robustness with more gestures and varied backgrounds using advanced machine learning models.
-Integrate depth-sensing cameras for better accuracy in complex environments.
-Explore applications in gesture-based TV controls, gaming, and AR/VR interfaces.
+Here is the Github link for [FitBlend](https://github.com/tanishabisht/UI-FitBlend)
+Here is the [Youtube](https://www.youtube.com/watch?v=6DMfQaXXP1k)
