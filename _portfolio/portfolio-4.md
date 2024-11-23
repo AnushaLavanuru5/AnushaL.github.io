@@ -1,31 +1,42 @@
 ---
-title: "Emoverse"
+title: "EmoVerse"
 excerpt: "AR application<br/><img src='/images/500x300.png'>"
 date: May 2023
 collection: portfolio
 ---
 Overview
 ---
-FitBlend is an interactive and user-friendly web application designed to help users explore and understand various smoothie recipes tailored to their preferences. It provides real-time data integration and dynamic visualizations to make the user experience engaging and educational.
+EmoVerse is an Augmented Reality (AR) application designed to promote emotional well-being by enabling users to externalize, share, and interact with emotions in a virtual space. Targeted at addressing academic stress among university students, EmoVerse leverages AR technology to foster asynchronous emotional sharing and create a supportive community.
 
 Key features
 ---
-Designed a responsive and interactive UI using ReactJS to ensure seamless functionality across devices.
-Integrated real-time data to dynamically display nutritional information and smoothie customization options.
-Enabled users to input preferences (e.g., ingredients, dietary restrictions) and receive tailored smoothie recommendations.
+Emotion Externalization: Users create AR objects representing their emotions, paired with descriptive text to provide context.
+Interactive Emotion Sharing: Emotions can be placed in the AR environment, where other users can interact with them through actions like touching or poking.
+Community Support: Responses to emotions are logged as threads, forming a collaborative emotional journey.
+Asynchronous Communication: Facilitates delayed yet meaningful emotional exchanges, making support accessible at any time.
 
 Tech Stack
 ---
-Front-End: ReactJS, HTML, CSS
-Back-End: Node.js (for API integrations)
-Database: MongoDB (for storing user preferences and recipe data)
-Deployment: Hosted on Heroku for accessibility.
+Platform: Augmented Reality using tools like Luma.
+Prototype Design: Figma for user interface design and prototyping.
+Backend and User Study Tools: Email-based wizard-of-oz setup for testing interactions.
 
 Project highlights
 ---
-Enhanced user experience by incorporating interactive visual elements such as graphs and ingredient animations.
-Implemented secure user authentication with JWT for personalized recipe management.
-Conducted thorough testing with Jest and Cypress to ensure robust performance and error-free deployment.
+Conducted a user study that demonstrated reduced stress, anxiety, and negative moods among participants after using EmoVerse.
+Designed a prototype emphasizing personalized AR emotions, interactive support threads, and customizable user settings.
+Received qualitative feedback highlighting the importance of descriptive text, the emotional impact of supportive messages, and the novelty of AR-based emotional sharing.
+
+Applications
+---
+Aimed at promoting mental health among students through reflective and interactive emotional sharing.
+Potential applications in therapeutic settings, such as enhancing accessibility to mental health support and creating immersive environments for self-reflection.
+
+Future Scope
+---
+Expand functionality to include customizable duration for AR emotions and direct user-to-user responses.
+Enhance the platform's safety by addressing issues like negativity and bullying.
+Develop a fully functional mobile application based on the prototype for broader accessibility.
 
 Links
 ---
