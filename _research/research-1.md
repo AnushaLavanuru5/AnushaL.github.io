@@ -1,10 +1,10 @@
+---
 title: Community history through AR
 collection: research
 *Role:* Research Assistant<br/>
 *Institution/Organization:* Columbia University<br/>
 *Duration:* May 2024 – present<br/>
 *Lab:* [Computer-Enabled Human Abilities Lab](https://ceal.cs.columbia.edu/people)
-
 ---
 
 ## Overview
