@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "Community history through AR"
 excerpt: "Research Assistant at Columbia University"
 permalink: /research/research-1
