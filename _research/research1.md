@@ -24,7 +24,7 @@ The project explores the following questions:
   - **Heatmap functionality** similar to Snapchat’s heatmaps for storytelling and locating key landmarks.  
   - Interactive maps focusing on themes like **health, safety, history, and art** in Harlem.  
 - Created 3D models of significant historic buildings using **Blender** and prototyped AR features in **Unity**, enabling users to visualize how buildings have changed over time.  
-- Proposed integrating **[Emoverse](**, where users can leave comments, stories, or AR objects for others to interact with, building a sense of shared history and connection.  
+- Proposed integrating **[Emoverse](https://anushalavanuru5.github.io/AnushaL.github.io//portfolio/portfolio-4/)**, where users can leave comments, stories, or AR objects for others to interact with, building a sense of shared history and connection.  
 - Led a **pilot study** with 10 participants using a beta mobile application to gather feedback on AR functionalities and UI/UX design.
 
 ---
@@ -56,8 +56,4 @@ The project explores the following questions:
 ### Related Links
 - [NSF Center for Smart Streetscapes](https://smartstreetscapes.cs.columbia.edu)  
 - [Virtual Harlem Project](https://www.virtualharlemproject.com)  
-- [Prototype on Figma](#) (Add link when available)  
-
----
-
-This updated template includes everything: the original details you provided, the abstract, and additional insights for future scope. It’s structured to present your work in a professional and impactful way. Let me know if you’d like any further edits!
+- [Prototype on Figma](https://www.figma.com/design/VFCqBOByvzPaSCbAXpXnkf/Community-AR---Draft?node-id=0-1&node-type=canvas&t=0O0pB2bdtSW8L2Tz-0)
