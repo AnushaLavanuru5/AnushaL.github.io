@@ -1,7 +1,7 @@
 ---
 title: "Community history through AR"
 excerpt: "Research Assistant at Columbia University"
-permalink: "/research/research-1"
+permalink: /research/research-1
 collection: research
 ---
 
