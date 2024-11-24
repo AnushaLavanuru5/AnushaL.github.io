@@ -1,4 +1,5 @@
-# Community history through AR
+title: Community history through AR
+collection: research
 *Role:* Research Assistant<br/>
 *Institution/Organization:* Columbia University<br/>
 *Duration:* May 2024 – present<br/>
