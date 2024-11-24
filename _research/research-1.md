@@ -1,10 +1,19 @@
+title: "Teaching Assistant"
+collection: teaching
+type: "Computing in Context(INAFU6006)"
+permalink: /teaching/2014-spring-teaching-1
+venue: "Columbia University, School of International and Political Affairs"
+date: "Sept 2023 - Dec 2023"
+location: "New York, USA"
+
 ---
-title: Community history through AR
+title: "Community history through AR"
 collection: research
-Role: Research Assistant<br/>
-Institution/Organization: Columbia University<br/>
-Duration: "May 2024 – present"<br/>
-Lab: [Computer-Enabled Human Abilities Lab](https://ceal.cs.columbia.edu/people)
+role: Research Assistant<br/>
+permalink: /research/research-1
+organization: Columbia University<br/>
+date: "May 2024 – present"<br/>
+lab: [Computer-Enabled Human Abilities Lab](https://ceal.cs.columbia.edu/people)
 ---
 
 ## Overview
