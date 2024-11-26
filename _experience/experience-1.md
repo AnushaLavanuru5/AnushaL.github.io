@@ -1,10 +1,9 @@
 ---
-layout: post
 title: "Research Assistant"
 date: 2024-05-01
 organization: "Columbia University"
 duration: "May 2024 – Present"
-categories: experience
+collection: experience
 ---
 
 ### Overview
