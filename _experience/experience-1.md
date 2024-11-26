@@ -1,6 +1,5 @@
 ---
 title: "Research Assistant"
-date: 2024-05-01
 organization: "Columbia University"
 duration: "May 2024 – Present"
 excerpt: "Working for [Computer Graphics and User Interfaces Lab](https://graphics.cs.columbia.edu//home)"
