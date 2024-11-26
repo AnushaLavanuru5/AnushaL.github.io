@@ -225,8 +225,11 @@ collections:
     permalink: /:collection/:path/
   research:
     output: true
-    permalink: /research/:path/
-
+    permalink: /:collection/:path/
+  experience: 
+    output: true
+    permalink: /:collection/:path
+  
 
 # These settings control how pages and collections are included in the site
 defaults:
