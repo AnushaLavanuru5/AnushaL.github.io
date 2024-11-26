@@ -1,31 +1,36 @@
 ---
-title: "Research Assistant"
+layout: post
+title: "Research Experience"
 date: 2024-05-01
-organization: "Columbia University"
-duration: "May 2024 – Present"
-collection: experience
+categories: experience
 ---
 
-Overview
----
-As a Research Assistant at the **Computer Graphics and User Interfaces Lab**, I contributed to the development of cutting-edge XR applications, focusing on multi-user collaboration and geospatial data visualization.
+### **Research Assistant**  
+**Columbia University – Computer Graphics and User Interfaces Lab**  
+*May 2024 – Present*
 
-Responsibilities
----
-- Developed networking functionality using **Photon Fusion** for real-time multi-user collaboration in XR environments.
-- Designed and implemented customizable **avatars** for user interactions and navigation.
-- Built a secure **login system** to support personalized user sessions and data security.
-- Enhanced radargram visualization by integrating **digital elevation models (DEMs)** and textured 3D meshes.
+As a Research Assistant, I contributed to projects at the intersection of **geospatial data visualization** and **Extended Reality (XR)** technologies. My work focused on creating immersive, multi-user environments for exploring polarimetric datasets and fostering collaborative scientific analysis.
 
-Key Outcomes
----
-- Enabled immersive and collaborative geospatial research with real-time multi-user interactions.
-- Improved user engagement through intuitive interfaces and seamless navigation tools.
-- Fostered accessibility by ensuring compatibility with multiple XR devices, including the Oculus Quest and Microsoft HoloLens.
+- Designed **multi-user networking features** using Photon Fusion, enabling real-time collaboration in XR environments.
+- Enhanced radargram visualization with **3D digital elevation models (DEMs)** and interactive measurement tools, providing researchers with detailed geospatial insights.
+- Developed intuitive user interfaces, including a **login system** and **customizable avatars**, to improve accessibility and engagement.
+- Ensured device compatibility across platforms, including the **Oculus Quest** and **Microsoft HoloLens**.
 
-Technologies Used
+**Impact:**  
+This research introduced innovative approaches to collaborative geospatial data analysis, improving workflow efficiency and fostering interdisciplinary collaboration.
+
 ---
-- **Networking:** Photon Fusion
-- **Development Environment:** Unity
-- **Visualization Tools:** DEMs, radargram meshes, custom shaders
-- **Devices:** Oculus Quest, Microsoft HoloLens
+
+### **Research Assistant**  
+**Columbia University – Center for Smart City Scapes**  
+*May 2024 – Present*
+
+In collaboration with community stakeholders, I worked on an **Augmented Reality (AR)** application to preserve the cultural and historical significance of the Harlem region. The project combined **community storytelling** with modern AR technologies to enhance civic engagement.
+
+- Conducted **field studies** and **archival research** to identify key landmarks and cultural narratives.
+- Designed **multi-layered wireframes** in Figma to prototype storytelling features and interactive heatmaps.
+- Prototyped AR features in Unity, allowing users to leave comments, AR assets, and stories tied to locations.
+- Facilitated pilot studies to collect user feedback, refining the application based on community input.
+
+**Impact:**  
+The project empowered local residents to preserve their cultural heritage and enabled an immersive, educational platform for discovering Harlem’s rich history.
