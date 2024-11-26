@@ -228,7 +228,7 @@ collections:
     permalink: /:collection/:path/
   experience: 
     output: true
-    permalink: /:collection/:path
+    permalink: /:collection/:path/
   
 
 # These settings control how pages and collections are included in the site
@@ -278,6 +278,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  #_research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true    
   # _talks
   - scope:
       path: ""
