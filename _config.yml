@@ -229,6 +229,9 @@ collections:
   experience: 
     output: true
     permalink: /:collection/:path/
+  achievements:
+    output: true
+    permalink: /:collection/:path/
   
 
 # These settings control how pages and collections are included in the site
@@ -291,6 +294,15 @@ defaults:
   - scope:
       path: ""
       type: experience
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+  # _achievements
+  - scope:
+      path: ""
+      type: achievements
     values:
       layout: single
       author_profile: true
