@@ -6,27 +6,25 @@ duration: "May 2024 – Present"
 collection: experience
 ---
 
-### Overview
+Overview
+---
 As a Research Assistant at the **Computer Graphics and User Interfaces Lab**, I contributed to the development of cutting-edge XR applications, focusing on multi-user collaboration and geospatial data visualization.
 
+Responsibilities
 ---
-
-### Responsibilities
 - Developed networking functionality using **Photon Fusion** for real-time multi-user collaboration in XR environments.
 - Designed and implemented customizable **avatars** for user interactions and navigation.
 - Built a secure **login system** to support personalized user sessions and data security.
 - Enhanced radargram visualization by integrating **digital elevation models (DEMs)** and textured 3D meshes.
 
+Key Outcomes
 ---
-
-### Key Outcomes
 - Enabled immersive and collaborative geospatial research with real-time multi-user interactions.
 - Improved user engagement through intuitive interfaces and seamless navigation tools.
 - Fostered accessibility by ensuring compatibility with multiple XR devices, including the Oculus Quest and Microsoft HoloLens.
 
+Technologies Used
 ---
-
-### Technologies Used
 - **Networking:** Photon Fusion
 - **Development Environment:** Unity
 - **Visualization Tools:** DEMs, radargram meshes, custom shaders
