@@ -1,31 +1,18 @@
 ---
-title: "Research Assistant @ CGUI"
-date: 2024-05-01
+title: "Software Engineer"
 organization: "Columbia University"
-duration: "May 2024 – Present"
+excerpt: "Worked for [Shure Audio Technologies](https://www.shure.com/en-IN)"
 collection: experience
 ---
-
-Overview
+Duration
 ---
-As a Research Assistant at the **Computer Graphics and User Interfaces Lab**, I contributed to the development of cutting-edge XR applications, focusing on multi-user collaboration and geospatial data visualization.
+Aug 2021 - Aug 2023
 
 Responsibilities
 ---
-- Developed networking functionality using **Photon Fusion** for real-time multi-user collaboration in XR environments.
-- Designed and implemented customizable **avatars** for user interactions and navigation.
-- Built a secure **login system** to support personalized user sessions and data security.
-- Enhanced radargram visualization by integrating **digital elevation models (DEMs)** and textured 3D meshes.
+At Shure Audio Technologies, I played a pivotal role in enhancing the **Designer NextGen platform**, automating QA workflows, and optimizing backend processes for scalability and reliability.
 
-Key Outcomes
----
-- Enabled immersive and collaborative geospatial research with real-time multi-user interactions.
-- Improved user engagement through intuitive interfaces and seamless navigation tools.
-- Fostered accessibility by ensuring compatibility with multiple XR devices, including the Oculus Quest and Microsoft HoloLens.
-
-Technologies Used
----
-- **Networking:** Photon Fusion
-- **Development Environment:** Unity
-- **Visualization Tools:** DEMs, radargram meshes, custom shaders
-- **Devices:** Oculus Quest, Microsoft HoloLens
+- Designed and implemented scalable software features using **Python**, **Flask**, and **PostgreSQL**, increasing system reliability by 25%.  
+- Automated over 100 test cases using **Selenium**, **Pytest**, and **CI/CD pipelines**, reducing manual QA time by 70%.  
+- Developed backend licensing services and integrated them with a **React front-end**, driving a 40% increase in software sales.  
+- Refactored legacy codebases, improving system performance by 30% through the use of **RESTful APIs**, **Redis caching**, and containerized deployments with **Docker** and **Kubernetes**.
