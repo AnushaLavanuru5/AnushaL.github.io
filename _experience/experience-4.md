@@ -1,5 +1,5 @@
 ---
-title: "Research Assistant"
+title: "Research Assistant @ CGUI"
 date: 2024-05-01
 organization: "Columbia University"
 duration: "May 2024 – Present"
