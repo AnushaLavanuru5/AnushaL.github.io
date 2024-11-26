@@ -1,31 +1,26 @@
 ---
 title: "Research Assistant"
 organization: "Columbia University"
-duration: "May 2024 – Present"
 excerpt: "Working for [Computer Graphics and User Interfaces Lab](https://graphics.cs.columbia.edu//home)"
 collection: experience
 ---
-
-Overview
+Duration
 ---
-As a Research Assistant at the **Computer Graphics and User Interfaces Lab**, I contributed to the development of cutting-edge XR applications, focusing on multi-user collaboration and geospatial data visualization.
+May 2024 - present 
 
 Responsibilities
 ---
-- Developed networking functionality using **Photon Fusion** for real-time multi-user collaboration in XR environments.
-- Designed and implemented customizable **avatars** for user interactions and navigation.
-- Built a secure **login system** to support personalized user sessions and data security.
-- Enhanced radargram visualization by integrating **digital elevation models (DEMs)** and textured 3D meshes.
+As a Research Assistant, I contributed to projects at the intersection of **geospatial data visualization** and **Extended Reality (XR)** technologies. My work focused on creating immersive, multi-user environments for exploring polarimetric datasets and fostering collaborative scientific analysis.
 
-Key Outcomes
----
-- Enabled immersive and collaborative geospatial research with real-time multi-user interactions.
-- Improved user engagement through intuitive interfaces and seamless navigation tools.
-- Fostered accessibility by ensuring compatibility with multiple XR devices, including the Oculus Quest and Microsoft HoloLens.
+- Designed **multi-user networking features** using Photon Fusion, enabling real-time collaboration in XR environments.
+- Enhanced radargram visualization with **3D digital elevation models (DEMs)** and interactive measurement tools, providing researchers with detailed geospatial insights.
+- Developed intuitive user interfaces, including a **login system** and **customizable avatars**, to improve accessibility and engagement.
+- Ensured device compatibility across platforms, including the **Oculus Quest** and **Microsoft HoloLens**.
 
-Technologies Used
+Impact
 ---
-- **Networking:** Photon Fusion
-- **Development Environment:** Unity
-- **Visualization Tools:** DEMs, radargram meshes, custom shaders
-- **Devices:** Oculus Quest, Microsoft HoloLens
+This research introduced innovative approaches to collaborative geospatial data analysis, improving workflow efficiency and fostering interdisciplinary collaboration.
+
+Links
+---
+More about the technical details of the project [here](https://anushalavanuru5.github.io/AnushaL.github.io//research/research-2/)
